@@ -16,7 +16,7 @@ index.html - The Index document for the website.
 
 
 screenshot for upload file
-![](screenshot/Screen Shot 2019-10-27 at 4.04.43 PM.png)
+![](screenshot/Screen%20Shot%202019-10-27%20at%204.04.43%20PM.png)
 
 
   
