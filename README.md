@@ -19,13 +19,13 @@ screenshot for upload file
 ![](screenshot/Screen%20Shot%202019-10-27%20at%204.04.43%20PM.png)
 
 
-  
 
 
 
 
 
 On “Static website hosting”, make sure it is enable
+![](screenshot/Screen%20Shot%202019-10-27%20at%204.14.56%20PM.png)
 
 
   
@@ -35,13 +35,15 @@ On “Static website hosting”, make sure it is enable
 
 
 Bucket policy editor - Resource domain name has to be exact same 
-  
+![](screenshot/Screen%20Shot%202019-10-27%20at%204.15.47%20PM.png)
+ 
 
 
 
 
 
 static website deployed on s3 bucket
+![](screenshot/Screen%20Shot%202019-10-27%20at%204.19.00%20PM.png)
 
 
   
@@ -49,3 +51,4 @@ static website deployed on s3 bucket
 
 
 static website deploy successful
+![](screenshot/Screen%20Shot%202019-10-27%20at%204.20.48%20PM.png)
